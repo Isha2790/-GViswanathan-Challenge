@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0507-perfect-number) |
 ## Simulation
 |  |
 | ------- |
