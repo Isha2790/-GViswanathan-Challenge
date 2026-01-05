@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0507-perfect-number) |
 ## Simulation
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
