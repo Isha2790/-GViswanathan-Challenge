@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
